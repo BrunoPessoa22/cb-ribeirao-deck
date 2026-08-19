@@ -40,7 +40,7 @@ curl -X POST -H "Authorization: Bearer $COOLIFY_TOKEN" -H "User-Agent: Mozilla/5
 
 ## Deploy
 
-- Coolify app uuid: `__APP_UUID__` (projeto kdeamptyyi0b2c2baf0enk1h / production).
+- Coolify app uuid: `qk5vdm23wzgo1ww3nwjrypqn` (projeto kdeamptyyi0b2c2baf0enk1h / production).
 - Domínio registrado com esquema `https://` (gotcha microfranquia).
 
 Design: CB Enterprise (ink #0C0D0E / bone #F4F5F1 / orange #F4632F, Geist + Geist Mono),
